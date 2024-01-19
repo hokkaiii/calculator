@@ -1,2 +1,2 @@
 # calculator
-calculator using html css and javaScript
+A good calculator, can be used for any purpose
